@@ -25,7 +25,7 @@ Briefly, the three steps are:
 
 
 All trainees have 3 months (90 days) from the end date of your training to complete checkout. If you need more time,
-3-month extensions may be requested by emailing [checkout@carpentries.org](mailto: checkout@carpentries.org). 
+3-month extensions may be requested by emailing [instructor.training@carpentries.org](mailto: instructor.training@carpentries.org). 
 Extensions may be granted for any reason up to 1 year from your training date.
 
 
