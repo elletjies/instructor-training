@@ -1,5 +1,5 @@
 ---
-title: Information for Member Organizations
+title: Information for Member Organisations
 survey_link: ~
 ---
 
